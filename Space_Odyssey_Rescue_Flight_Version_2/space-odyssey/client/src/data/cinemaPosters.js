@@ -1,0 +1,17 @@
+import earth from '../assets/approaches/earth.webp';
+import mars from '../assets/approaches/mars.webp';
+import jupiter from '../assets/approaches/jupiter.webp';
+import saturn from '../assets/approaches/saturn.webp';
+import uranus from '../assets/approaches/uranus.webp';
+import neptune from '../assets/approaches/neptune.webp';
+import venus from '../assets/approaches/venus.webp';
+import mercury from '../assets/approaches/mercury.webp';
+import earthDefense from '../assets/approaches/earthDefense.webp';
+import boarding from '../assets/hangar.webp';
+import escape from '../assets/approaches/escape.webp';
+import rings from '../assets/approaches/rings.webp';
+import blue from '../assets/approaches/blue.webp';
+import buoy from '../assets/approaches/buoy.webp';
+import gate from '../assets/approaches/gate.webp';
+import binary from '../assets/approaches/binary.webp';
+export const posters={earth,mars,jupiter,saturn,uranus,neptune,venus,mercury,earthDefense,boarding,escape,rings,blue,buoy,gate,binary};
